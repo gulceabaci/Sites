@@ -4,7 +4,7 @@
 - I gathered some of the websites that I used while developing the project under one site.  
 - I did this with React.  
 - With the go to address button, the redirects to the page links are opened on the new page.  
-- It has been a simple but very useful project to improve myself.
+- It has been a simple but very useful project to improve myself.  
 Thank you everyone..  
 
 
