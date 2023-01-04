@@ -1,0 +1,95 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #DFDBE5;
+    
+}
+.githubLink{
+    font-size: 40px;
+    position: absolute;
+    right: -350px;
+    width: 400px;  
+    top: 5px;
+}
+
+h1{
+    margin-top: 60px;
+    letter-spacing: 1.5px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color: #2c0b5c;
+}
+
+.container {
+    margin: auto;
+    width: 80%;
+    min-height: 500px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.card {
+    width: 190px;
+    height: 254px;
+    background-color: #422c61f5;
+    border-radius: 20px;
+    transition: all .3s;
+    margin: 20px;
+    cursor: pointer;
+  
+}
+.card2 {
+    padding: 10px 5px;
+    width: 190px;
+    height: 254px;
+    background-color: #422c61f5;
+    transition: all .2s;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    border-radius: 80px;
+}
+img {
+    width: 100%;
+    height: 70px;
+    border-radius: 20px;
+}
+p{
+    letter-spacing: 1.3px;
+    text-align: center;
+    background-color: #DFDBE5;
+    font-family: 'Antic Slab', serif;
+    color: #2c0b5c;
+}
+button{
+    padding: 10px 20px;
+    font-size: 13px;
+    width: 130px;
+    cursor: pointer;
+    background-color: #DFDBE5;
+    font-family: 'Antic Slab', serif;
+    letter-spacing: 1.5px;
+    transition: .3s;
+    border-radius: 40px;
+    border: 2px solid ;
+    color: #2c0b5c;
+}
+button:hover{
+    background-color: #2c0b5c;
+    color: white;
+    opacity: .7;
+}
+a{
+  
+    border-radius: 32px;
+}
